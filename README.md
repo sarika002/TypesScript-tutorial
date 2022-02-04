@@ -39,8 +39,8 @@ Step 5: Run JavaScript file
 
 You can directly compile your typeScript file but in real world project, you might want to customize how your files are compiled.For this reason,it is important to create TypeScript config file.
 
-To create a TypeScript configuration file, you can run the following command:
+To create a TypeScript configuration file, you can run the following command: tsc --init
 
-$ tsc --init
+A jsconfig.json file is created
 
 
