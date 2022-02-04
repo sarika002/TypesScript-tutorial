@@ -21,3 +21,4 @@ Its Salient Features are-'
 
 # Introduction
 
+A TypeScript file cannot be run directly by the browser.It has to be compiled to convert it into a JavaScript file.
