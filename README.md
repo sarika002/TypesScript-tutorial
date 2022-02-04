@@ -22,3 +22,9 @@ Its Salient Features are-'
 # Introduction
 
 A TypeScript file cannot be run directly by the browser.It has to be compiled to convert it into a JavaScript file.
+
+# Steps to Create a TypeScript file
+
+step 1: Create a simple TypeScript File on your favourite Editor(for e.g. Visual Studio Code)
+Step 2: Save it as .ts extension
+Step
