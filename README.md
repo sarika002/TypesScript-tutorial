@@ -26,5 +26,12 @@ A TypeScript file cannot be run directly by the browser.It has to be compiled to
 # Steps to Create a TypeScript file
 
 step 1: Create a simple TypeScript File on your favourite Editor(for e.g. Visual Studio Code)
+
 Step 2: Save it as .ts extension
-Step
+
+Step 3: To compile this file,open terminal and write "tsc file_name.ts"
+
+Step 4: A JavaScript file is created
+
+Step 5: Run JavaScript file 
+
